@@ -1,0 +1,1 @@
+No primeiro dia de aula do bloco 2, aprendi os conceitos de Git e GitHub, instalei e configuei meu git, criei uma conta no GitHub, [D[D[D[D[D[D[D[D[D[D[D[D[fiz meu primeiro commit no GitHub.
